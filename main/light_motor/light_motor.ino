@@ -11,6 +11,11 @@ void setup() {
 }
 
 void loop(){
+  val = analogRead(potpin);         // reads the value of the potentiometer (value between 0 and 1023)
+  val = map(val, 0, 3500, 0, 180);  // scale it to use it with the servo (value between 0 and 180)
+
+
+
   
 }
 

@@ -17,7 +17,6 @@ void loop(){
   Serial.println(val);
   myservo.write(val);               // sets the servo position according to the scaled value
 
-
-  
+  delay(100);                       // waits for the servo to get there
 }
 

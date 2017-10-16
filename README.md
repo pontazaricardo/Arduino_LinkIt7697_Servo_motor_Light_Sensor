@@ -55,3 +55,4 @@ void loop(){
   delay(100);                       // waits for the servo to get there
 }
 ```
+where the *myservo.write(val)* helps in the rotation of the servo.

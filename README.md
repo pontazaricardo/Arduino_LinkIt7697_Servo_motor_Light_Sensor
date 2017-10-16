@@ -33,3 +33,4 @@ In order to use a servo motor, we need to import the **Servo** library and initi
 
 Servo myservo;        // create servo object to control a servo
 ```
+Note that the servo motor is polarized, i.e., can turn in both directions depending on the polarity. 

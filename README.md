@@ -43,3 +43,4 @@ void setup()
 	Serial.begin(9600);
 }
 ```
+The servo can be rotated to an specific angle depending of a value. This can be done inside the *loop* cycle as follows.

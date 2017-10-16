@@ -16,3 +16,5 @@ http://download.labs.mediatek.com/package_mtk_linkit_7697_index.json
 ![install02](/images/install01.gif?raw=true)
 
 3. Finally install the USB driver (CP210x) from [here](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers), selecting the correct OS configuration.
+
+![install03](/images/pic99.png?raw=true)

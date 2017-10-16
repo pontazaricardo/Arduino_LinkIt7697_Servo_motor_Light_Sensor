@@ -26,3 +26,10 @@ In order to correctly connect the board and the sensor, the code has to be analy
 ### Code
 
 #### Servo motor
+
+In order to use a servo motor, we need to import the **Servo** library and initialize the **Servo** object as follows.
+```arduino
+#include <Servo.h>
+
+Servo myservo;        // create servo object to control a servo
+```

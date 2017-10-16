@@ -34,3 +34,12 @@ In order to use a servo motor, we need to import the **Servo** library and initi
 Servo myservo;        // create servo object to control a servo
 ```
 Note that the servo motor is polarized, i.e., can turn in both directions depending on the polarity. 
+
+For starting it, just add the *begin* command to setup.
+```arduino
+void setup()
+{
+	myservo.attach(8);  // attaches the servo on pin 8 to the servo object
+	Serial.begin(9600);
+}
+```

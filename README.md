@@ -56,3 +56,5 @@ void loop(){
 }
 ```
 where the *myservo.write(val)* helps in the rotation of the servo.
+
+**NOTE:** A delay needs to be performed after the rotation of the servo to give time to it to finish the movement.

@@ -60,3 +60,5 @@ where the *myservo.write(val)* helps in the rotation of the servo.
 **NOTE:** A delay needs to be performed after the rotation of the servo to give time to it to finish the movement.
 
 #### Light sensor
+
+The sound sensor used in this project was a standard analog sound sensor.

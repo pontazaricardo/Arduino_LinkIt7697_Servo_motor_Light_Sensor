@@ -61,4 +61,4 @@ where the *myservo.write(val)* helps in the rotation of the servo.
 
 #### Light sensor
 
-The sound sensor used in this project was a standard analog sound sensor.
+The light sensor used in this project was a standard analog light sensor.

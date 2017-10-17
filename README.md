@@ -99,3 +99,4 @@ void setup() {
   Serial.begin(9600);
 }
 ```
+We then need to update the connections accordingly:

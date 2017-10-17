@@ -84,3 +84,5 @@ void loop()
 }
 ```
 ### Configuration
+
+Because in our code we find the lines

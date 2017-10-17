@@ -72,3 +72,4 @@ In order to read its inputs, we need to define the analogic pin that will provid
 ```arduino
 int potpin = A0;      // analog pin used to connect the potentiometer
 ```
+and we need to read its content inside the *loop* cycle as

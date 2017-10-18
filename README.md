@@ -113,3 +113,6 @@ Please beware of the polarity of the servo motor and the position of the GND and
 
 ![sensor03](/images/image00.jpg?raw=true)
 
+## Extensions
+
+This project can be modified to use any other analogic sensor, such as a light sensor. Just connect it to the A0 port.

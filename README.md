@@ -69,7 +69,7 @@ The light sensor used in this project was a standard analog light sensor.
 
 ![sensor02](/images/sensor03.jpg?raw=true)
 
-In order to read its inputs, we need to define the analogic pin that will provide the board with the sensors data.
+In order to read its inputs, we need to define the analogic pin that will provide the board with the sensors data
 
 ```arduino
 int potpin = A0;      // analog pin used to connect the potentiometer

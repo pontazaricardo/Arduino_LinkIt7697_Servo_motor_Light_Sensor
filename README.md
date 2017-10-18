@@ -110,3 +110,6 @@ We then need to update the connections accordingly:
 Please beware of the polarity of the servo motor and the position of the GND and 3.3V pins for the sensor.
 
 ![sensor04](/images/sensor00.jpg?raw=true)
+
+![sensor03](/images/image00.jpg?raw=true)
+

@@ -116,3 +116,7 @@ Please beware of the polarity of the servo motor and the position of the GND and
 ## Extensions
 
 This project can be modified to use any other analogic sensor, such as a light sensor. Just connect it to the A0 port.
+
+## Demo
+
+A demo of servo motor moving to different positions depending on the detected light intensity can be seen below.

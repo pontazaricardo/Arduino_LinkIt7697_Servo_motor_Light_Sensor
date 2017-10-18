@@ -120,3 +120,5 @@ This project can be modified to use any other analogic sensor, such as a light s
 ## Demo
 
 A demo of servo motor moving to different positions depending on the detected light intensity can be seen below.
+
+![demo](/images/demo.gif?raw=true)

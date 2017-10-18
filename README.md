@@ -102,3 +102,5 @@ void setup() {
 We then need to update the connections accordingly:
 1. Connect the servo motor to the IC2 port.
 2. Connect the light sensor to the A0 port.
+
+![sensor03](/images/board00.jpg?raw=true)

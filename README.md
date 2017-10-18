@@ -65,7 +65,7 @@ where the *myservo.write(val)* helps in the rotation of the servo.
 
 The light sensor used in this project was a standard analog light sensor.
 
-![sensor01](/images/sensor02.png?raw=true)
+![sensor01](/images/sensor02.jpg?raw=true)
 
 ![sensor02](/images/sensor03.png?raw=true)
 
